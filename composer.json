@@ -1,0 +1,28 @@
+{
+  "name": "eskirex/crypt",
+  "description": "Crypt",
+  "version": "1.0.0-dev",
+  "keywords": [
+    "crypt",
+    "eskirex"
+  ],
+  "homepage": "http://www.eskirex.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eskirex",
+      "email": "eskirex@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "config": {
+    "minimum-stability": "dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eskirex\\": "src/"
+    }
+  }
+}
