@@ -9,7 +9,7 @@ namespace Eskirex;
  * @link http://www.eskirex.com
  * @version 1.0
  */
-class DataCrypt
+class Crypt
 {
     /**
      * @var string
